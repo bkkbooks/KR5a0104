@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR5a0104/ZTDZ/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 玉清無極總真文昌大洞仙經註
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+  date: '2015-08-28 23:37:29.268823'
+  source:
+    repository: kanripo
+    path: KR5a0104/KR5a0104_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+hash: sha256:9bd6b32ee2d6765c060bab4bf4617dcf1f0daf747fb5f285f5473e5bb8399612

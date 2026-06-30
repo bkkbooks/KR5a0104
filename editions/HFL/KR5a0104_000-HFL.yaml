@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR5a0104/HFL/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 玉清無極總真文昌大洞仙經註
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+  date: '2015-08-28 23:37:29.268823'
+  source:
+    repository: kanripo
+    path: KR5a0104/KR5a0104_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+hash: sha256:65daf4f678a0d87b04730225015207f38758b65b7f73bfafd7b9fba6726cbffc
